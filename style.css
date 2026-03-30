@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightgreen;
+    padding-bottom: 10px;
+}
+
+header img {
+    padding-left:10px;
+    padding-top:10px;
+}
+
+header a {
+    margin-left: 10px;
+    text-decoration:none;
+    color:white;
+    background-color: darkgreen;
+    border-radius: 15px;
+    padding:5px 5px 5px 5px;
+}
+
+footer {
+    background-color: lightgreen;
+    padding:5px 5px 5px 5px;
+}
+
+footer h4 {
+    background-color: white;
+    padding:5px 5px 5px 5px;
+}
+
+footer p {
+    background-color: white;
+    padding:5px 5px 5px 5px;
+}
+
+h4 {
+    font-size:20px;
+}
+
+h5 {
+    font-size:20px;
+}
